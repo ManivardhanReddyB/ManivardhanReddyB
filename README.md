@@ -1,16 +1,36 @@
-## Hi there 👋
+# Manivardhan Reddy B
 
-<!--
-**ManivardhanReddyB/ManivardhanReddyB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent Research | Procurement Systems | Decision Architecture
 
-Here are some ideas to get you started:
+I explore how procurement evolves from transaction execution toward systems thinking, operating models, and decision design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Research Series:
+
+✔ RP001 | The Rise of the Procurement Systems Operator
+
+Upcoming:
+
+□ RP002 | In development
+
+□ RP003 | In development
+
+## Research Themes
+
+- Procurement systems architecture
+- AI-enabled sourcing
+- Strategic sourcing
+- Decision architecture
+- Category management
+- Organisational transformation
+- Systems thinking
+
+## Current Thesis
+
+> The transaction gets attention.  
+> The system creates outcomes.
+
+## Connect
+
+LinkedIn: [Manivardhan Reddy B](https://www.linkedin.com/in/manivardhanreddyb/)
+
+GitHub Research: [RP001](https://github.com/ManivardhanReddyB/the-rise-of-the-procurement-systems-operator)
